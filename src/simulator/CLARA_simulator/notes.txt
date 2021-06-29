@@ -1,0 +1,15 @@
+
+NOTES while making the CLARA simulator
+
+#######################
+# cloud top height
+
+MODS used CO2 slicing for pressures lower than 700hPa and ISCCP cloud
+top simulations otherwise.
+
+The default cloud_top_direction =1 which means the highest pressure
+that matches the radiance-derived cloud top temperature. This is also
+the direction PPS uses. 
+
+
+
